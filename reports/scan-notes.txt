@@ -1,0 +1,20 @@
+Project: Nmap Reconnaissance Lab
+Operating System: Kali Linux
+Tool: Nmap
+Assessment Type: Authorized Lab Assessment
+
+Kali IP Address: 192.168.1.115
+Network Range: 192.168.1.115/24
+Target IP: 192.168.1.146
+
+
+PHASE 1: HOST DISCOVERY
+
+Command:
+nmap -sn 127.0.0.1
+
+Purpose:
+Check whether the local host is reachable.
+
+Result:
+ENTER YOUR ACTUAL RESULT
